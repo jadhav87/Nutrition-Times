@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vikas/Desktop/Wheel View/RotateImage/app/libs/imagezoom.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="038f5a2082e2d8be1576402bf0e749204197d4f0">
+        <dex dex="/Users/vikas/Desktop/Wheel View/RotateImage/app/build/intermediates/pre-dexed/debug/imagezoom_40586924e8b446b99070fb418b0e0288c81ecbad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vikas/Desktop/Wheel View/RotateImage/library/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="234b3cacdd88a0bd2787256b29e1cd233dc59469">
+        <dex dex="/Users/vikas/Desktop/Wheel View/RotateImage/app/build/intermediates/pre-dexed/debug/classes_ec64f5f8ebd49d2f3ae80d87cb903da800a6f146.jar" />
+    </item>
+
+</items>
